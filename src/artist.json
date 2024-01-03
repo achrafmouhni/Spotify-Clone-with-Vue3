@@ -1,0 +1,63 @@
+{
+    "name": "JAZZ BLUES",
+    "albumCover": "/images/albumCovers/jazzBlues.webp",
+    "releaseYear": "2023",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Pete Gage - Blues Has Got Me",
+            "path": "/songs/Blues-Has-Got-Me.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Daniel Castro - I'll Play The Blues For You",
+            "path": "/songs/Daniel-Castro.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Chris Bell - Elevator To Heaven",
+            "path": "/songs/Elevator-To-Heaven.mp3"
+        },
+        {
+            "id": 4,
+            "name": "Blues Delight If I Had Money",
+            "path": "/songs/If-I-Had-Money.mp3"
+        },
+        {
+            "id": 5,
+            "name": "Guy Davis - Loneliest Road That I Know",
+            "path": "/songs/Loneliest-Road-That-I-Know.mp3"
+        },
+        {
+            "id": 6,
+            "name": "Albert Cummmings - Lonely Bed",
+            "path": "/songs/Lonely-Bed.mp3"
+        },
+        {
+            "id": 7,
+            "name": "Gene Deer - Midnight Healing",
+            "path": "/songs/Midnight-Healing.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Mighty Mo Rodgers - Picasso Blue",
+            "path": "/songs/Picasso-Blue.mp3"
+        },
+        {
+            "id": 9,
+            "name": "Soulmate - Set Me Free",
+            "path": "/songs/Set-Me-Free.mp3"
+        },
+        {
+            "id": 10,
+            "name": "JT Coldfire - She's Crazy",
+            "path": "/songs/She-is-Crazy.mp3"
+        },
+        {
+            "id": 11,
+            "name": "Blues Delight Slightly Hung Over",
+            "path": "/songs/Slightly-HungOver.mp3"
+        }
+    ]
+}
+
